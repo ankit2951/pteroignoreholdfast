@@ -1,0 +1,18 @@
+.config/
+.steam/
+Steam/
+steamcmd/
+holdfastnaw-dedicated/Holdfast NaW_Data/
+holdfastnaw-dedicated/linux64/
+holdfastnaw-dedicated/logs_adminactions/
+holdfastnaw-dedicated/logs_archive/
+holdfastnaw-dedicated/logs_chat/
+holdfastnaw-dedicated/logs_output/
+holdfastnaw-dedicated/logs_playerlogin/
+holdfastnaw-dedicated/logs_score/
+holdfastnaw-dedicated/steamapps/
+holdfastnaw-dedicated/Holdfast NaW
+holdfastnaw-dedicated/steam_appid.txt
+holdfastnaw-dedicated/steamclient.so
+holdfastnaw-dedicated/configs/.git
+.pteroignore
